@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -659,13 +659,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 .form-control,
 .form-control:focus {
@@ -1818,8 +1818,8 @@ body {
   background-image: url("../../../assets/images/peter-kasprzyk-u1gvhqvq2kq-unsplash-2-2000x1333.jpg");
 }
 .cid-sa0x5YqEbu {
-  padding-top: 105px;
-  padding-bottom: 105px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-color: #ffffff;
 }
 .cid-sa0x5YqEbu .mbr-text {
@@ -1849,45 +1849,93 @@ body {
 .cid-sa0HMyaW4y .mbr-section-subtitle {
   color: #767676;
 }
-.cid-sa0xEPSsfr {
+.cid-sa68xyB7D6 {
   padding-top: 60px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-sa0xEPSsfr .card-img {
-  background-color: #fff;
+.cid-sa68xyB7D6 .card-box {
+  padding: 0 2rem;
 }
-.cid-sa0xEPSsfr .card-box {
-  padding: 2rem;
-  background-color: #ffffff;
+.cid-sa68xyB7D6 .mbr-section-btn {
+  padding-top: 1rem;
 }
-.cid-sa0xEPSsfr h4 {
+.cid-sa68xyB7D6 .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-sa68xyB7D6 h4 {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
+  padding-top: 2rem;
 }
-.cid-sa0xEPSsfr p {
+.cid-sa68xyB7D6 p {
+  margin-bottom: 0;
   text-align: left;
+  padding-top: 1.5rem;
 }
-.cid-sa0xEPSsfr .mbr-text {
+.cid-sa68xyB7D6 .mbr-text {
   color: #767676;
+  text-align: center;
 }
-.cid-sa0xEPSsfr .card-wrapper {
+.cid-sa68xyB7D6 .card-wrapper {
   height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
-.cid-sa0xEPSsfr .card-wrapper:hover {
+.cid-sa68xyB7D6 .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-@media (min-width: 992px) {
-  .cid-sa0xEPSsfr .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-    -webkit-flex: 0 0 20%;
-  }
+.cid-sa68xyB7D6 .card-title {
+  text-align: center;
+}
+.cid-sa69B1Tyr5 {
+  padding-top: 15px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-sa69B1Tyr5 .card-box {
+  padding: 0 2rem;
+}
+.cid-sa69B1Tyr5 .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-sa69B1Tyr5 .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-sa69B1Tyr5 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-sa69B1Tyr5 p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-sa69B1Tyr5 .mbr-text {
+  color: #767676;
+  text-align: center;
+}
+.cid-sa69B1Tyr5 .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-sa69B1Tyr5 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-sa69B1Tyr5 .card-title {
+  text-align: center;
 }
 .cid-sa0YkZ2NOQ {
   background: #ffffff;
